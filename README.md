@@ -32,7 +32,7 @@
 
   <p align="center">
     Simple and fancy launcher designed to download and launch any version of Beat Saber easily and quickly.
-    <br />
+    <br /> 
     <a href="https://github.com/RiskiVR/BSLegacyLauncher/releases/latest/download/BSLegacyLauncher.zip">
       <p align="center">
       <img src="https://github.com/RiskiVR/BSLegacyLauncher/blob/media/readme/BSLegacyDownload.png" alt="Logo" width="300" height="60">
