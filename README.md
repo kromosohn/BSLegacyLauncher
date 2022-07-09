@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br /> 
 <p align="center"> 
-  <a href="https://github.com/RiskiVR/BSLegacyLauncher"> 
+  <a href="https://github.com/RiskiVR/BSLegacyLauncher">  
     <img src="https://github.com/RiskiVR/BSLegacyLauncher/blob/media/readme/block.png" alt="Logo" width="250" height="250">
   </a>
 
