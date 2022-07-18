@@ -40,7 +40,7 @@
     <a href="https://discord.gg/MrwMx5e">Join our Discord</a>
     ·
     <a href="https://github.com/RiskiVR/BSLegacyLauncher/issues">Report Bug</a>
-    ·
+    · 
     <a href="https://github.com/RiskiVR/BSLegacyLauncher/issues">Request Feature</a>
   </p>
 </p>
