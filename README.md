@@ -25,7 +25,7 @@
 <br /> 
 <p align="center"> 
   <a href="https://github.com/kromosohn/BSLegacyLauncher">  
-    <img src="https://github.com/kromosohn/BSLegacyLauncher/blob/media/readme/block.png" alt="Logo" width="250" height="250">
+    <img src="https://github.com/RiskiVR/BSLegacyLauncher/blob/media/readme/block.png" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">Beat Saber Legacy Launcher</h3>
@@ -35,7 +35,7 @@
     <br /> 
     <a href="https://github.com/kromosohn/BSLegacyLauncher/releases/download/Release/BSLegacyLauncher.rar">
       <p align="center">
-      <img src="https://github.com/kromosohn/BSLegacyLauncher/blob/media/readme/BSLegacyDownload.png" alt="Logo" width="300" height="60">
+      <img src="https://github.com/RiskiVR/BSLegacyLauncher/blob/media/readme/BSLegacyDownload.png" alt="Logo" width="300" height="60">
     <br />
     <a href="https://discord.gg/MrwMx5e">Join our Discord</a>
     ·
